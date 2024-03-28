@@ -8,7 +8,7 @@
 # Prerequisites
     - Before running the script, ensure you have the following installed:
        1. XAMMP 
-       #https://www.apachefriends.org/
+  ## https://www.apachefriends.org/
        
 You'll find the link below useful:
 ## https://www.geeksforgeeks.org/how-to-create-a-simple-cgi-script/
