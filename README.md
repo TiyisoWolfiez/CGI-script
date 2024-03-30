@@ -1,6 +1,6 @@
 # CGI-script
 
-![FIBONACCI](demo.png)
+![FIBONACCI](img/demo.png)
 
 # Fibonacci Sequence Triplets CGI Script
  - This CGI script generates Fibonacci sequence triplets, displaying both the next and previous triplet in the sequence.
